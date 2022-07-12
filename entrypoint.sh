@@ -3,4 +3,4 @@
 # flutter pub get
 # flutter build apk
 
-flutter --version
+sh -c "/sdks/flutter/bin/flutter --version"
