@@ -3,4 +3,4 @@
 # flutter pub get
 # flutter build apk
 
-hostname
+flutter --version
