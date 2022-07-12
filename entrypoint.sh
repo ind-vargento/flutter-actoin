@@ -1,4 +1,4 @@
-#!/bin/sh -l
+#!/bin/sh
 
 flutter pub get
 flutter build apk
