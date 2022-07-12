@@ -1,4 +1,6 @@
 #!/bin/sh
 
-flutter pub get
-flutter build apk
+# flutter pub get
+# flutter build apk
+
+ls
