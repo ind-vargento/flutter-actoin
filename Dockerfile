@@ -2,7 +2,7 @@
 FROM cirrusci/flutter:3.0.4
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
-COPY entrypoint.sh /entrypoint.sh
+COPY entrypoint.sh /
 
 RUN chmod +x /entrypoint.sh
 
